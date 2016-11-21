@@ -1,0 +1,6 @@
+.idea/
+
+#python
+**/*.py[cod]
+**/*.log
+
